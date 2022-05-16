@@ -27,5 +27,5 @@ require (
 	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
 	golang.org/x/tools v0.0.0-20191107235519-f7ea15e60b12
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
-	gopkg.in/yaml.v2 v2.2.7
+	gopkg.in/yaml.v2 v2.2.8
 )
